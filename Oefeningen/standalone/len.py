@@ -1,0 +1,6 @@
+print(len('asdasdasd'))
+print(len({"s": 10, "10": "as"}))
+# print(len(10))
+print(len({}))
+print('hello'.__len__())
+print([1,2,3,].__len__())
